@@ -6,14 +6,6 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  src: url(https://github.com/netology-code/mq-diploma/blob/master/sources/fonts/OpenSans-Regular.ttf);
-  font-weight: normal;
-}
-
-body {
-  font-family: "Open Sans", sans-serif;
-  src: url(https://github.com/netology-code/mq-diploma/blob/master/sources/fonts/OpenSans-Bold.ttf);
-  font-weight: bold;
 }
 
 a {
@@ -793,6 +785,7 @@ input {
 
 .search-form {
   display: flex;
+  width: 100%;
 }
 
 label.search-group {
